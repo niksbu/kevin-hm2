@@ -1,0 +1,6 @@
+{
+  "name": "Restaurant Waitlist Manager",
+  "description": "Touch-optimized restaurant waitlist management system with real-time on-premise LED display board integration and queue lifecycle control.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
